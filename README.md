@@ -22,6 +22,11 @@ keep learning :)</h4>
 
 - ⚡ Fun fact **I think clean/good code is more sexy :)**
 
+## Skills and Experience
+ - React
+ - Bootstrap,Tailwindcss
+ - Html, css, js
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/tilakkhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tilakkhatri" height="30" width="40" /></a>
