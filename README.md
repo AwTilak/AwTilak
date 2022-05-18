@@ -14,7 +14,7 @@ keep learning :)</h4>
 
 - 🌱 I’m currently learning **Frontend,ReactJs**
 
-- 👨‍💻 All of my projects are available at [awtilak.github.io](awtilak.github.io)
+- 👨‍💻 All of my projects are available at [awtilak.github.io](https://awtilak.github.io)
 
 - 💬 Ask me about **venilaJs, ReactJs**
 
