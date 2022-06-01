@@ -1,6 +1,6 @@
 ### Hi, there this is Tilak👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwTilak&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwTilak&show_icons=true&theme=radical) -->
 <br><br>
 
 <br>
